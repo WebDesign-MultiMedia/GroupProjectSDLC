@@ -164,14 +164,14 @@ input[name="r"]{
 .s2 li{
     color: white;
     position: relative;
-    top: -360px;
+    top: -340px;
     font-size: 0.9em;
     font-weight: 500;
     left: 0px;
     width:555px;
     height: 20px;
     list-style-type: none;
-    padding: 20px;
+    padding: 17px;
     border: 0.3px solid gold;
     background-color: #3b3b3b6c;
     border-radius: 4000px;
