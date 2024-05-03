@@ -36,7 +36,7 @@ body{
 }
 
 .bar:hover{
- background-color: aqua;
+ background-color: gold;
 }
 
 input[name="r"]{
@@ -164,10 +164,12 @@ input[name="r"]{
 .s2 li{
     color: white;
     position: relative;
-    top: -420px;
-    font-size: 1em;
-    left: 90px;
-    width:505px;
+    top: -360px;
+    font-size: 0.9em;
+    font-weight: 500;
+    left: 0px;
+    width:555px;
+    height: 20px;
     list-style-type: none;
     padding: 20px;
     border: 0.3px solid gold;
@@ -234,11 +236,10 @@ input[name="r"]{
     text-align: center;
     width: 200px;
     top: -370px;
-    font-size: 1.1em;
+    font-size: 1em;
     right: -40px;
-    list-style-type: n;
     padding: 20px;
-    background-color: #3b3b3ba0;
+    background-color: #3b3b3ba6;
     border-radius: 4000px ;
     border: 0.3px solid gold;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -254,7 +255,7 @@ input[name="r"]{
     list-style-type: none;
     padding: 5px;
     border: 0.3px solid gold;
-    background-color: #3b3b3b4a;
+    background-color: #3b3b3b88;
     border-radius: 4000px;
     text-align: center;
     filter: drop-shadow(2px 2px 4px rgb(0, 0, 0));
